@@ -1,0 +1,515 @@
+{
+  "meta": {
+    "generated_at": "2026-11-19T16:03:23.071Z",
+    "build_version": "sync e613345 (local)",
+    "community": "community.creativeliving.world",
+    "warnings_count": 38
+  },
+  "labels": [
+    {
+      "group": "type",
+      "id": 595571,
+      "name": "Meditation"
+    },
+    {
+      "group": "type",
+      "id": 595572,
+      "name": "EFT"
+    },
+    {
+      "group": "type",
+      "id": 595574,
+      "name": "Breath"
+    },
+    {
+      "group": "type",
+      "id": 595575,
+      "name": "Movement"
+    },
+    {
+      "group": "time",
+      "id": 595579,
+      "name": "Under 5 min"
+    },
+    {
+      "group": "time",
+      "id": 595580,
+      "name": "5-15 min"
+    },
+    {
+      "group": "time",
+      "id": 595581,
+      "name": "15-30 min"
+    },
+    {
+      "group": "need",
+      "id": 595583,
+      "name": "Uplift"
+    },
+    {
+      "group": "need",
+      "id": 595586,
+      "name": "Ground"
+    },
+    {
+      "group": "need",
+      "id": 595587,
+      "name": "Release"
+    },
+    {
+      "group": "need",
+      "id": 610872,
+      "name": "Expand"
+    },
+    {
+      "group": "need",
+      "id": 610873,
+      "name": "Integrate"
+    },
+    {
+      "group": "row",
+      "id": 612708,
+      "name": "Replay"
+    },
+    {
+      "group": "row",
+      "id": 612721,
+      "name": "With Maia"
+    },
+    {
+      "group": "row",
+      "id": 612722,
+      "name": "With Lo"
+    },
+    {
+      "group": "row",
+      "id": 612723,
+      "name": "Guests"
+    },
+    {
+      "group": "writing_part",
+      "id": 2907457,
+      "name": "Daily Prompts"
+    },
+    {
+      "group": "writing_part",
+      "id": 2907458,
+      "name": "The Practices"
+    },
+    {
+      "group": "writing_part",
+      "id": 2907460,
+      "name": "Editing Tools"
+    }
+  ],
+  "practices": [
+    {
+      "id": 38408217,
+      "title": "The Studio Dummy Content 12 - 2 times",
+      "url": "https://community.creativeliving.world/c/the-studio/the-studio-dummy-content-12-2-times",
+      "needs": [
+        595586
+      ],
+      "cover": "https://assets-v2.circle.so/r9qzkt5edocdj3ujvd4kug26kcfz",
+      "type": 595574
+    },
+    {
+      "id": 38408122,
+      "title": "The Studio Dummy Content 11 no need",
+      "url": "https://community.creativeliving.world/c/the-studio/the-studio-dummy-content-11-2-times",
+      "needs": [],
+      "cover": "https://assets-v2.circle.so/ncxrtxuk3z69tdjs4eivrlb071ph",
+      "time": 595580,
+      "type": 595574
+    },
+    {
+      "id": 38408070,
+      "title": "The Studio Dummy Content 10 no thumbnail",
+      "url": "https://community.creativeliving.world/c/the-studio/the-studio-dummy-content-10-no-need-topic",
+      "needs": [
+        610873
+      ],
+      "cover": "https://assets-v2.circle.so/84vpx1y2pkcx0i8nil0dcw24yuks",
+      "time": 595580,
+      "type": 595571
+    },
+    {
+      "id": 38408025,
+      "title": "The Studio Dummy Content 9",
+      "url": "https://community.creativeliving.world/c/the-studio/the-studio-dummy-content-9",
+      "needs": [
+        610872,
+        610873
+      ],
+      "cover": "https://assets-v2.circle.so/46p0ul5ua9zmnsl2gr6ynqk786fr",
+      "time": 595581,
+      "type": 595575
+    },
+    {
+      "id": 38408006,
+      "title": "The Studio Dummy Content 8 no cover/thumbnail",
+      "url": "https://community.creativeliving.world/c/the-studio/the-studio-dummy-content-8-no-cover-thumbnail",
+      "needs": [
+        610872
+      ],
+      "time": 595579,
+      "type": 595572
+    },
+    {
+      "id": 38407948,
+      "title": "The Studio Dummy Content 7",
+      "url": "https://community.creativeliving.world/c/the-studio/the-studio-dummy-content-7",
+      "needs": [
+        595586,
+        610873
+      ],
+      "cover": "https://assets-v2.circle.so/imar9vien8wr767sgyugtggk7jy7",
+      "time": 595580,
+      "type": 595572
+    },
+    {
+      "id": 38407918,
+      "title": "The Studio Dummy Content 6",
+      "url": "https://community.creativeliving.world/c/the-studio/the-studio-dummy-content-6",
+      "needs": [
+        595586
+      ],
+      "cover": "https://assets-v2.circle.so/1hs1aftj1lfovetk3hkpznf2c8en",
+      "time": 595581,
+      "type": 595571
+    },
+    {
+      "id": 38407883,
+      "title": "Dummy Content 5 with very very very long long long long long long long title",
+      "url": "https://community.creativeliving.world/c/the-studio/dummy-content-5-with-very-very-very-long-long-long-long-long-long-long-title",
+      "needs": [
+        595583,
+        595586
+      ],
+      "cover": "https://assets-v2.circle.so/xh1swrxgxbn2ct6wwsuqwkfwh464"
+    },
+    {
+      "id": 38407852,
+      "title": "The Studio Dummy Content 4 Diff thumbnail",
+      "url": "https://community.creativeliving.world/c/the-studio/the-studio-dummy-content-4",
+      "needs": [
+        595583
+      ],
+      "cover": "https://assets-v2.circle.so/v4z240gfuivqv4gj4o1b17p4mtd2",
+      "time": 595580,
+      "type": 595574
+    },
+    {
+      "id": 38407798,
+      "title": "The Studio Dummy Content 3",
+      "url": "https://community.creativeliving.world/c/the-studio/the-studio-dummy-content-3",
+      "needs": [
+        595583,
+        610872,
+        610873
+      ],
+      "cover": "https://assets-v2.circle.so/5gmjqwhw9ik9ooqacccug3cunwp8",
+      "time": 595581,
+      "type": 595571
+    },
+    {
+      "id": 38407769,
+      "title": "The Studio Dummy Content 2",
+      "url": "https://community.creativeliving.world/c/the-studio/the-studio-dummy-content-2",
+      "needs": [
+        595583
+      ],
+      "cover": "https://assets-v2.circle.so/pc9g6fs78ga0w73canltcls9hon7",
+      "time": 595579,
+      "type": 595574
+    },
+    {
+      "id": 38407629,
+      "title": "The Studio Dummy Content 1",
+      "url": "https://community.creativeliving.world/c/the-studio/sips-of-sensation-titration-practice",
+      "needs": [
+        595583,
+        595586
+      ],
+      "cover": "https://assets-v2.circle.so/ekbm4mfj0z7jwnjcfw20zpw45bsb",
+      "time": 595580,
+      "type": 595575
+    }
+  ],
+  "weekly_picks": [
+    {
+      "week_start": "2026-11-09",
+      "am": 38407629,
+      "pm": 38407769
+    },
+    {
+      "week_start": "2026-11-16",
+      "am": 38407798,
+      "pm": 38407852
+    },
+    {
+      "week_start": "2026-11-23",
+      "am": 38407883,
+      "pm": 38407918
+    },
+    {
+      "week_start": "2026-11-30",
+      "am": 38408025,
+      "pm": 38408070
+    }
+  ],
+  "prompts": [
+    {
+      "id": 38586144,
+      "title": "[TEST] Daily Prompt 1",
+      "url": "https://community.creativeliving.world/c/daily-prompts/test-daily-prompt-1",
+      "day": 1
+    },
+    {
+      "id": 38586151,
+      "title": "[TEST] Daily Prompt 2",
+      "url": "https://community.creativeliving.world/c/daily-prompts/test-daily-prompt-2",
+      "day": 2
+    },
+    {
+      "id": 38586152,
+      "title": "[TEST] Daily Prompt 3 Dummy search word",
+      "url": "https://community.creativeliving.world/c/daily-prompts/test-daily-prompt-3-dummy-search-word",
+      "day": 3
+    },
+    {
+      "id": 38586155,
+      "title": "[TEST] Daily Prompt 5 no time",
+      "url": "https://community.creativeliving.world/c/daily-prompts/test-daily-prompt-5-no-time",
+      "day": 5
+    }
+  ],
+  "writing": [
+    {
+      "id": 38586155,
+      "title": "[TEST] Daily Prompt 5 no time",
+      "url": "https://community.creativeliving.world/c/daily-prompts/test-daily-prompt-5-no-time",
+      "part": 2907457,
+      "needs": []
+    },
+    {
+      "id": 38586154,
+      "title": "[TEST] Daily Prompt 4 with a very very very long long long long long long title",
+      "url": "https://community.creativeliving.world/c/daily-prompts/test-daily-prompt-4-with-a-very-very-very-long-long-long-long-long-long-title",
+      "part": 2907457,
+      "needs": [
+        595586
+      ],
+      "time": 595581
+    },
+    {
+      "id": 38586152,
+      "title": "[TEST] Daily Prompt 3 Dummy search word",
+      "url": "https://community.creativeliving.world/c/daily-prompts/test-daily-prompt-3-dummy-search-word",
+      "part": 2907457,
+      "needs": [],
+      "time": 595580
+    },
+    {
+      "id": 38586151,
+      "title": "[TEST] Daily Prompt 2",
+      "url": "https://community.creativeliving.world/c/daily-prompts/test-daily-prompt-2",
+      "part": 2907457,
+      "needs": [],
+      "time": 595580
+    },
+    {
+      "id": 38586144,
+      "title": "[TEST] Daily Prompt 1",
+      "url": "https://community.creativeliving.world/c/daily-prompts/test-daily-prompt-1",
+      "part": 2907457,
+      "needs": [
+        595583
+      ],
+      "time": 595579
+    },
+    {
+      "id": 38586196,
+      "title": "[TEST] The Practices 4 two times",
+      "url": "https://community.creativeliving.world/c/expression-exercises/test-the-practices-4-two-times",
+      "part": 2907458,
+      "needs": [
+        595583
+      ]
+    },
+    {
+      "id": 38586195,
+      "title": "[TEST] The Practices 3 no need",
+      "url": "https://community.creativeliving.world/c/expression-exercises/test-the-practices-3-no-need",
+      "part": 2907458,
+      "needs": [],
+      "time": 595581
+    },
+    {
+      "id": 38586194,
+      "title": "[TEST] The Practices 2 Dummy search word",
+      "url": "https://community.creativeliving.world/c/expression-exercises/test-the-practices-2-dummy-search-word",
+      "part": 2907458,
+      "needs": [
+        595583,
+        610872
+      ],
+      "time": 595580
+    },
+    {
+      "id": 38586193,
+      "title": "[TEST] The Practices 1",
+      "url": "https://community.creativeliving.world/c/expression-exercises/test-the-practices-1",
+      "part": 2907458,
+      "needs": [
+        595586
+      ],
+      "time": 595579
+    },
+    {
+      "id": 38586268,
+      "title": "[TEST] Editing Tools 2 Release only here",
+      "url": "https://community.creativeliving.world/c/editing-tools/test-editing-tools-2-release-only-here",
+      "part": 2907460,
+      "needs": [
+        595587
+      ],
+      "time": 595580
+    },
+    {
+      "id": 38586267,
+      "title": "[TEST] Editing Tools 1",
+      "url": "https://community.creativeliving.world/c/editing-tools/test-editing-tools-1",
+      "part": 2907460,
+      "needs": [],
+      "time": 595579
+    }
+  ],
+  "workshops": [
+    {
+      "id": 38586313,
+      "title": "[TEST] Workshop 5 no image",
+      "url": "https://community.creativeliving.world/c/test-workshops/test-workshop-5-no-image",
+      "rows": [
+        612723
+      ],
+      "is_replay": false
+    },
+    {
+      "id": 38586312,
+      "title": "[TEST] Workshop 4 no row",
+      "url": "https://community.creativeliving.world/c/test-workshops/test-workshop-4-no-row",
+      "rows": [],
+      "is_replay": false,
+      "cover": "https://assets-v2.circle.so/obpw7o3k5qyl8rpto7xumm2oxbdo"
+    },
+    {
+      "id": 38586311,
+      "title": "[TEST] Workshop 3 two rows with a very very very long long long long long title",
+      "url": "https://community.creativeliving.world/c/test-workshops/test-workshop-3-two-rows-with-a-very-very-very-long-long-long-long-long-title",
+      "rows": [
+        612721,
+        612723
+      ],
+      "is_replay": false,
+      "cover": "https://assets-v2.circle.so/obpw7o3k5qyl8rpto7xumm2oxbdo"
+    },
+    {
+      "id": 38586310,
+      "title": "[TEST] Workshop 2",
+      "url": "https://community.creativeliving.world/c/test-workshops/test-workshop-2",
+      "rows": [
+        612722
+      ],
+      "is_replay": false,
+      "cover": "https://assets-v2.circle.so/obpw7o3k5qyl8rpto7xumm2oxbdo"
+    },
+    {
+      "id": 38586302,
+      "title": "[TEST] Workshop 1 replay",
+      "url": "https://community.creativeliving.world/c/test-workshops/test-workshop-1-replay",
+      "rows": [
+        612708,
+        612721
+      ],
+      "is_replay": true,
+      "cover": "https://assets-v2.circle.so/f85zly51tc0u8c34k29r1316dgwg"
+    }
+  ],
+  "journeys": [
+    {
+      "id": 2957327,
+      "title": "Writing From the Messy Middle",
+      "url": "https://community.creativeliving.world/c/writing-from-the-messy-middle"
+    },
+    {
+      "id": 2957305,
+      "title": "Writing Your Future",
+      "url": "https://community.creativeliving.world/c/writing-your-future"
+    },
+    {
+      "id": 2957298,
+      "title": "Writing For Impact + Cultural Contribution",
+      "url": "https://community.creativeliving.world/c/writing-for-impact-cultural-contribution"
+    },
+    {
+      "id": 2907483,
+      "title": "Take Your Thinking Back",
+      "url": "https://community.creativeliving.world/c/take-your-thinking-back",
+      "weeks": 6,
+      "minutes_per_day": 15,
+      "outcome": "[TEST] Reclaim your attention and think for yourself again."
+    },
+    {
+      "id": 2907482,
+      "title": "Creating from The Body (YIN)",
+      "url": "https://community.creativeliving.world/c/creating-from-the-body-yin",
+      "cover": "https://assets-v2.circle.so/obpw7o3k5qyl8rpto7xumm2oxbdo",
+      "outcome": "[TEST] Let your body lead your creative work through gentle Yin practice."
+    },
+    {
+      "id": 2907481,
+      "title": "Expanded Collection (NS 101)",
+      "url": "https://community.creativeliving.world/c/expanded-collection-ns-101",
+      "cover": "https://assets-v2.circle.so/obpw7o3k5qyl8rpto7xumm2oxbdo",
+      "weeks": 4,
+      "minutes_per_day": 15
+    },
+    {
+      "id": 2907480,
+      "title": "Personal Column Writing Challenge",
+      "url": "https://community.creativeliving.world/c/personal-column-writing-challenge",
+      "cover": "https://assets-v2.circle.so/obpw7o3k5qyl8rpto7xumm2oxbdo",
+      "weeks": 6,
+      "minutes_per_day": 20,
+      "outcome": "[TEST] Write and share your own personal column, step by step."
+    },
+    {
+      "id": 2907478,
+      "title": "Spring Publishing Challenge",
+      "url": "https://community.creativeliving.world/c/spring-publishing-challenge",
+      "cover": "https://assets-v2.circle.so/obpw7o3k5qyl8rpto7xumm2oxbdo",
+      "weeks": 4,
+      "minutes_per_day": 15,
+      "outcome": "[TEST] Finish and publish one piece of writing in four weeks."
+    }
+  ],
+  "links": {
+    "bookmarks": "https://community.creativeliving.world/bookmarks",
+    "studio": "https://community.creativeliving.world/c/the-studio",
+    "daily_prompts": "https://community.creativeliving.world/c/daily-prompts",
+    "expression_exercises": "https://community.creativeliving.world/c/expression-exercises",
+    "editing_tools": "https://community.creativeliving.world/c/editing-tools",
+    "foundations": "https://community.creativeliving.world/c/12-day-foundations",
+    "introductions": "https://community.creativeliving.world/c/welcome-introductions",
+    "how_to_use": "https://community.creativeliving.world/c/how-to-use-cl",
+    "announcements": "https://community.creativeliving.world/c/announcements-a63cbe",
+    "calendar": "https://community.creativeliving.world/c/calendar",
+    "share_your_work": "https://community.creativeliving.world/c/share-your-work-6459de",
+    "local_meetups": "https://community.creativeliving.world/c/local-meetups",
+    "coworking": "https://community.creativeliving.world/c/co-working-body-doubling",
+    "celebrations": "https://community.creativeliving.world/c/celebrations",
+    "skills_exchange": "https://community.creativeliving.world/c/skills-exchange",
+    "group_chat": "https://community.creativeliving.world/c/group-chat-no-rules"
+  }
+}
