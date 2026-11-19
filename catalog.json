@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-19T16:23:38.985Z",
+    "generated_at": "2026-11-19T16:28:53.669Z",
     "build_version": "sync 4b9b931",
     "community": "community.creativeliving.world",
-    "warnings_count": 43
+    "warnings_count": 42
   },
   "labels": [
     {
@@ -276,6 +276,12 @@
       "title": "[TEST] Daily Prompt 3 Dummy search word",
       "url": "https://community.creativeliving.world/c/daily-prompts/test-daily-prompt-3-dummy-search-word",
       "day": 3
+    },
+    {
+      "id": 38586154,
+      "title": "[TEST] Daily Prompt 4 with a very very very long long long long long long title",
+      "url": "https://community.creativeliving.world/c/daily-prompts/test-daily-prompt-4-with-a-very-very-very-long-long-long-long-long-long-title",
+      "day": 4
     },
     {
       "id": 38586155,
