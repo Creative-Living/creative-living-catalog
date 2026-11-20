@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-19T16:28:53.669Z",
-    "build_version": "sync 4b9b931",
+    "generated_at": "2026-11-20T00:34:15.913Z",
+    "build_version": "sync 541b827",
     "community": "community.creativeliving.world",
-    "warnings_count": 42
+    "warnings_count": 47
   },
   "labels": [
     {
@@ -393,53 +393,74 @@
   ],
   "workshops": [
     {
-      "id": 38586313,
-      "title": "[TEST] Workshop 5 no image",
-      "url": "https://community.creativeliving.world/c/test-workshops/test-workshop-5-no-image",
-      "rows": [
-        612723
-      ],
+      "id": 2957266,
+      "title": "Workshop: Parts Work Creative Edition",
+      "url": "https://community.creativeliving.world/c/workshop-parts-work-creative-edition",
+      "rows": [],
       "is_replay": false
     },
     {
-      "id": 38586312,
-      "title": "[TEST] Workshop 4 no row",
-      "url": "https://community.creativeliving.world/c/test-workshops/test-workshop-4-no-row",
+      "id": 2957265,
+      "title": "Workshop: Neuroscience and Somatics of Imagination",
+      "url": "https://community.creativeliving.world/c/workshop-neuroscience-and-somatics-of-imagination",
       "rows": [],
-      "is_replay": false,
-      "cover": "https://assets-v2.circle.so/obpw7o3k5qyl8rpto7xumm2oxbdo"
+      "is_replay": false
     },
     {
-      "id": 38586311,
-      "title": "[TEST] Workshop 3 two rows with a very very very long long long long long title",
-      "url": "https://community.creativeliving.world/c/test-workshops/test-workshop-3-two-rows-with-a-very-very-very-long-long-long-long-long-title",
+      "id": 2957264,
+      "title": "Workshop: Integration and Containment",
+      "url": "https://community.creativeliving.world/c/workshop-integration-and-containment",
+      "rows": [],
+      "is_replay": false
+    },
+    {
+      "id": 2957192,
+      "title": "Uncover Original Thinking",
+      "url": "https://community.creativeliving.world/c/uncover-original-thinking",
+      "rows": [],
+      "is_replay": false
+    },
+    {
+      "id": 2907436,
+      "title": "Roundtables",
+      "url": "https://community.creativeliving.world/c/roundtables",
+      "rows": [],
+      "is_replay": false,
+      "cover": "https://assets-v2.circle.so/fxabg373xerbl22er1o8sff4xotu",
+      "outcome": "[TEST] Hear how other members shape their week, and leave with one idea to try."
+    },
+    {
+      "id": 2907435,
+      "title": "Workshop 3",
+      "url": "https://community.creativeliving.world/c/workshop-3",
       "rows": [
         612721,
         612723
       ],
       "is_replay": false,
-      "cover": "https://assets-v2.circle.so/obpw7o3k5qyl8rpto7xumm2oxbdo"
+      "outcome": "[TEST] A long outcome line to check wrapping: come away with a gentle weekly rhythm for writing, moving and resting, so the work keeps going even on the hard days."
     },
     {
-      "id": 38586310,
-      "title": "[TEST] Workshop 2",
-      "url": "https://community.creativeliving.world/c/test-workshops/test-workshop-2",
+      "id": 2907433,
+      "title": "Workshop 2",
+      "url": "https://community.creativeliving.world/c/workshop-2",
       "rows": [
         612722
       ],
       "is_replay": false,
-      "cover": "https://assets-v2.circle.so/obpw7o3k5qyl8rpto7xumm2oxbdo"
+      "cover": "https://assets-v2.circle.so/0eowj79rs6yx3vvvc6xv5gqul80r"
     },
     {
-      "id": 38586302,
-      "title": "[TEST] Workshop 1 replay",
-      "url": "https://community.creativeliving.world/c/test-workshops/test-workshop-1-replay",
+      "id": 2907432,
+      "title": "Workshop 1",
+      "url": "https://community.creativeliving.world/c/workshop-1",
       "rows": [
         612708,
         612721
       ],
       "is_replay": true,
-      "cover": "https://assets-v2.circle.so/f85zly51tc0u8c34k29r1316dgwg"
+      "cover": "https://assets-v2.circle.so/fxabg373xerbl22er1o8sff4xotu",
+      "outcome": "[TEST] Leave with three ways to start writing when the page feels blank."
     }
   ],
   "journeys": [
