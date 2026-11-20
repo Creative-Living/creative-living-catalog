@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-11-20T00:34:15.913Z",
-    "build_version": "sync 541b827",
+    "generated_at": "2026-11-20T15:27:12.196Z",
+    "build_version": "sync 0795479",
     "community": "community.creativeliving.world",
     "warnings_count": 47
   },
@@ -263,31 +263,36 @@
       "id": 38586144,
       "title": "[TEST] Daily Prompt 1",
       "url": "https://community.creativeliving.world/c/daily-prompts/test-daily-prompt-1",
-      "day": 1
+      "day": 1,
+      "cover": "https://assets-v2.circle.so/fxabg373xerbl22er1o8sff4xotu"
     },
     {
       "id": 38586151,
       "title": "[TEST] Daily Prompt 2",
       "url": "https://community.creativeliving.world/c/daily-prompts/test-daily-prompt-2",
-      "day": 2
+      "day": 2,
+      "cover": "https://assets-v2.circle.so/fxabg373xerbl22er1o8sff4xotu"
     },
     {
       "id": 38586152,
       "title": "[TEST] Daily Prompt 3 Dummy search word",
       "url": "https://community.creativeliving.world/c/daily-prompts/test-daily-prompt-3-dummy-search-word",
-      "day": 3
+      "day": 3,
+      "cover": "https://assets-v2.circle.so/fxabg373xerbl22er1o8sff4xotu"
     },
     {
       "id": 38586154,
       "title": "[TEST] Daily Prompt 4 with a very very very long long long long long long title",
       "url": "https://community.creativeliving.world/c/daily-prompts/test-daily-prompt-4-with-a-very-very-very-long-long-long-long-long-long-title",
-      "day": 4
+      "day": 4,
+      "cover": "https://assets-v2.circle.so/fxabg373xerbl22er1o8sff4xotu"
     },
     {
       "id": 38586155,
       "title": "[TEST] Daily Prompt 5 no time",
       "url": "https://community.creativeliving.world/c/daily-prompts/test-daily-prompt-5-no-time",
-      "day": 5
+      "day": 5,
+      "cover": "https://assets-v2.circle.so/fxabg373xerbl22er1o8sff4xotu"
     }
   ],
   "writing": [
