@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-11-20T15:27:12.196Z",
-    "build_version": "sync 0795479",
+    "generated_at": "2026-11-21T14:39:12.803Z",
+    "build_version": "sync 1dfc1d6",
     "community": "community.creativeliving.world",
     "warnings_count": 47
   },
@@ -64,7 +64,7 @@
     {
       "group": "need",
       "id": 610873,
-      "name": "Integrate"
+      "name": "Inspire"
     },
     {
       "group": "row",
