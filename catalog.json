@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-22T14:34:34.081Z",
+    "generated_at": "2026-11-23T18:07:52.631Z",
     "build_version": "sync 1dfc1d6",
     "community": "community.creativeliving.world",
     "warnings_count": 47
@@ -238,11 +238,6 @@
   ],
   "weekly_picks": [
     {
-      "week_start": "2026-11-09",
-      "am": 38407629,
-      "pm": 38407769
-    },
-    {
       "week_start": "2026-11-16",
       "am": 38407798,
       "pm": 38407852
@@ -256,6 +251,11 @@
       "week_start": "2026-11-30",
       "am": 38408025,
       "pm": 38408070
+    },
+    {
+      "week_start": "2026-12-07",
+      "am": 38408122,
+      "pm": 38408217
     }
   ],
   "prompts": [
