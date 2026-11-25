@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-23T18:07:52.631Z",
-    "build_version": "sync 1dfc1d6",
+    "generated_at": "2026-11-25T20:51:44.319Z",
+    "build_version": "sync 53a34f2",
     "community": "community.creativeliving.world",
-    "warnings_count": 47
+    "warnings_count": 45
   },
   "labels": [
     {
@@ -13,18 +13,23 @@
     },
     {
       "group": "type",
-      "id": 595572,
-      "name": "EFT"
+      "id": 595573,
+      "name": "Somatic Experiencing"
     },
     {
       "group": "type",
-      "id": 595574,
-      "name": "Breath"
+      "id": 595576,
+      "name": "Kundalini Tantra"
     },
     {
       "group": "type",
-      "id": 595575,
-      "name": "Movement"
+      "id": 595577,
+      "name": "Yin"
+    },
+    {
+      "group": "type",
+      "id": 595578,
+      "name": "Visual Soundscape"
     },
     {
       "group": "time",
@@ -67,9 +72,9 @@
       "name": "Inspire"
     },
     {
-      "group": "row",
-      "id": 612708,
-      "name": "Replay"
+      "group": "need",
+      "id": 610874,
+      "name": "Play"
     },
     {
       "group": "row",
@@ -78,13 +83,13 @@
     },
     {
       "group": "row",
-      "id": 612722,
-      "name": "With Lo"
+      "id": 612723,
+      "name": "Guest Roundtables"
     },
     {
-      "group": "row",
-      "id": 612723,
-      "name": "Guests"
+      "group": "time",
+      "id": 618811,
+      "name": "60+ min"
     },
     {
       "group": "writing_part",
@@ -104,160 +109,180 @@
   ],
   "practices": [
     {
-      "id": 38408217,
-      "title": "The Studio Dummy Content 12 - 2 times",
-      "url": "https://community.creativeliving.world/c/the-studio/the-studio-dummy-content-12-2-times",
+      "id": 38772785,
+      "title": "Radiant Body Technology – Radiance Kriya",
+      "url": "https://community.creativeliving.world/c/the-studio/radiant-body-technology-radiance-kriya",
       "needs": [
-        595586
-      ],
-      "cover": "https://assets-v2.circle.so/r9qzkt5edocdj3ujvd4kug26kcfz",
-      "type": 595574
-    },
-    {
-      "id": 38408122,
-      "title": "The Studio Dummy Content 11 no need",
-      "url": "https://community.creativeliving.world/c/the-studio/the-studio-dummy-content-11-2-times",
-      "needs": [],
-      "cover": "https://assets-v2.circle.so/ncxrtxuk3z69tdjs4eivrlb071ph",
-      "time": 595580,
-      "type": 595574
-    },
-    {
-      "id": 38408070,
-      "title": "The Studio Dummy Content 10 no thumbnail",
-      "url": "https://community.creativeliving.world/c/the-studio/the-studio-dummy-content-10-no-need-topic",
-      "needs": [
-        610873
-      ],
-      "cover": "https://assets-v2.circle.so/84vpx1y2pkcx0i8nil0dcw24yuks",
-      "time": 595580,
-      "type": 595571
-    },
-    {
-      "id": 38408025,
-      "title": "The Studio Dummy Content 9",
-      "url": "https://community.creativeliving.world/c/the-studio/the-studio-dummy-content-9",
-      "needs": [
+        595586,
         610872,
         610873
       ],
-      "cover": "https://assets-v2.circle.so/46p0ul5ua9zmnsl2gr6ynqk786fr",
-      "time": 595581,
-      "type": 595575
+      "cover": "https://assets-v2.circle.so/mhlbyyxw5t74liawaeslde8glyk7",
+      "time": 618811,
+      "type": 595576
     },
     {
-      "id": 38408006,
-      "title": "The Studio Dummy Content 8 no cover/thumbnail",
-      "url": "https://community.creativeliving.world/c/the-studio/the-studio-dummy-content-8-no-cover-thumbnail",
+      "id": 38772675,
+      "title": "Creativity Mantra: Wah Yante",
+      "url": "https://community.creativeliving.world/c/the-studio/creativity-mantra-wah-yante",
       "needs": [
+        610872,
+        610874
+      ],
+      "cover": "https://assets-v2.circle.so/v2e2ijwneauqkgaa3jedpn0n8kg1",
+      "time": 618811,
+      "type": 595576
+    },
+    {
+      "id": 38772546,
+      "title": "A Renewed Self-Concept – Kundalini Tantra session",
+      "url": "https://community.creativeliving.world/c/the-studio/a-renewed-self-concept-kundalini-tantra-session",
+      "needs": [
+        595587,
         610872
       ],
-      "time": 595579,
-      "type": 595572
+      "cover": "https://assets-v2.circle.so/5ofokddmgfx5gqxyz0xgdehiris7",
+      "time": 618811,
+      "type": 595576
     },
     {
-      "id": 38407948,
-      "title": "The Studio Dummy Content 7",
-      "url": "https://community.creativeliving.world/c/the-studio/the-studio-dummy-content-7",
+      "id": 38772369,
+      "title": "\"I can hold it\" hypnosis journey (2025)\nEmpty",
+      "url": "https://community.creativeliving.world/c/the-studio/i-can-hold-it-hypnosis-journey-2025-empty",
+      "needs": [
+        595583,
+        595586,
+        595587
+      ],
+      "cover": "https://assets-v2.circle.so/nvdhn4dwe2prevjqzyqg8630ymyc",
+      "time": 595581,
+      "type": 595571
+    },
+    {
+      "id": 38772182,
+      "title": "Yin Foundations: Intro to Yin Yoga",
+      "url": "https://community.creativeliving.world/c/the-studio/yin-foundations-intro-to-yin-yoga",
+      "needs": [
+        595583,
+        595586,
+        595587
+      ],
+      "cover": "https://assets-v2.circle.so/tkpe1rirr3uig1j2p50e8ob8scbx",
+      "time": 595581,
+      "type": 595577
+    },
+    {
+      "id": 38772024,
+      "title": "Venusian ways",
+      "url": "https://community.creativeliving.world/c/the-studio/venusian-ways",
+      "needs": [
+        595583,
+        595586
+      ],
+      "cover": "https://assets-v2.circle.so/ohj97hcnaf1e8lhp9xd1ak045zwm",
+      "time": 595581,
+      "type": 595578
+    },
+    {
+      "id": 38771842,
+      "title": "A gentle (un)folding",
+      "url": "https://community.creativeliving.world/c/the-studio/a-gentle-un-folding",
+      "needs": [
+        595583,
+        595586,
+        595587
+      ],
+      "cover": "https://assets-v2.circle.so/0dn0jjb3jmj9evvzprtf3rnc8i5a",
+      "time": 595581,
+      "type": 595577
+    },
+    {
+      "id": 38771643,
+      "title": "Root Sprout Bloom - Yoga Nidra",
+      "url": "https://community.creativeliving.world/c/the-studio/root-sprout-bloom-yoga-nidra",
       "needs": [
         595586,
         610873
       ],
-      "cover": "https://assets-v2.circle.so/imar9vien8wr767sgyugtggk7jy7",
-      "time": 595580,
-      "type": 595572
-    },
-    {
-      "id": 38407918,
-      "title": "The Studio Dummy Content 6",
-      "url": "https://community.creativeliving.world/c/the-studio/the-studio-dummy-content-6",
-      "needs": [
-        595586
-      ],
-      "cover": "https://assets-v2.circle.so/1hs1aftj1lfovetk3hkpznf2c8en",
+      "cover": "https://assets-v2.circle.so/nmmeawc4cpyxxrdi72gl7vvaszal",
       "time": 595581,
       "type": 595571
     },
     {
-      "id": 38407883,
-      "title": "Dummy Content 5 with very very very long long long long long long long title",
-      "url": "https://community.creativeliving.world/c/the-studio/dummy-content-5-with-very-very-very-long-long-long-long-long-long-long-title",
+      "id": 38771458,
+      "title": "Full Body Creative Detox",
+      "url": "https://community.creativeliving.world/c/the-studio/full-body-creative-detox",
       "needs": [
         595583,
-        595586
+        595587
       ],
-      "cover": "https://assets-v2.circle.so/xh1swrxgxbn2ct6wwsuqwkfwh464"
+      "cover": "https://assets-v2.circle.so/nkizd0s4ie47ad591b4di7k25nnf",
+      "time": 595581,
+      "type": 595578
     },
     {
-      "id": 38407852,
-      "title": "The Studio Dummy Content 4 Diff thumbnail",
-      "url": "https://community.creativeliving.world/c/the-studio/the-studio-dummy-content-4",
+      "id": 38771232,
+      "title": "Wake The Serpent - Yin Flow",
+      "url": "https://community.creativeliving.world/c/the-studio/wake-the-serpent-yin-flow",
       "needs": [
-        595583
+        595586,
+        595587
       ],
-      "cover": "https://assets-v2.circle.so/v4z240gfuivqv4gj4o1b17p4mtd2",
-      "time": 595580,
-      "type": 595574
+      "cover": "https://assets-v2.circle.so/0knv5p2v1e80k1zhdbx4jtnv542x",
+      "time": 595581,
+      "type": 595577
     },
     {
-      "id": 38407798,
-      "title": "The Studio Dummy Content 3",
-      "url": "https://community.creativeliving.world/c/the-studio/the-studio-dummy-content-3",
+      "id": 38770618,
+      "title": "Where Your Waters Live",
+      "url": "https://community.creativeliving.world/c/the-studio/where-your-waters-live",
       "needs": [
         595583,
         610872,
         610873
       ],
-      "cover": "https://assets-v2.circle.so/5gmjqwhw9ik9ooqacccug3cunwp8",
+      "cover": "https://assets-v2.circle.so/l181tfnzshmlb7fa124ng4vt0jcb",
       "time": 595581,
       "type": 595571
     },
     {
-      "id": 38407769,
-      "title": "The Studio Dummy Content 2",
-      "url": "https://community.creativeliving.world/c/the-studio/the-studio-dummy-content-2",
+      "id": 38770271,
+      "title": "Riding the wave (pendulation practice)",
+      "url": "https://community.creativeliving.world/c/the-studio/riding-the-wave-pendulation-practice",
       "needs": [
-        595583
+        595586,
+        610872
       ],
-      "cover": "https://assets-v2.circle.so/pc9g6fs78ga0w73canltcls9hon7",
-      "time": 595579,
-      "type": 595574
+      "cover": "https://assets-v2.circle.so/cqdkbr9x2f7efm2z48ib61e28xr4",
+      "time": 595580,
+      "type": 595573
     },
     {
-      "id": 38407629,
-      "title": "The Studio Dummy Content 1",
-      "url": "https://community.creativeliving.world/c/the-studio/sips-of-sensation-titration-practice",
+      "id": 38770073,
+      "title": "5% slower (integration practice)",
+      "url": "https://community.creativeliving.world/c/the-studio/5-slower-integration-practice",
       "needs": [
         595583,
-        595586
+        595586,
+        595587
       ],
-      "cover": "https://assets-v2.circle.so/ekbm4mfj0z7jwnjcfw20zpw45bsb",
+      "cover": "https://assets-v2.circle.so/fq61llpo7ahb2i067m0knak5j8m9",
       "time": 595580,
-      "type": 595575
+      "type": 595573
+    },
+    {
+      "id": 38769530,
+      "title": "Sips of Sensation (titration practice)",
+      "url": "https://community.creativeliving.world/c/the-studio/sips-of-sensation-titration-practice-265d24",
+      "needs": [
+        610872
+      ],
+      "cover": "https://assets-v2.circle.so/20w3yfwjan5qs7jeite3ic8cm7o4",
+      "time": 595580,
+      "type": 595573
     }
   ],
-  "weekly_picks": [
-    {
-      "week_start": "2026-11-16",
-      "am": 38407798,
-      "pm": 38407852
-    },
-    {
-      "week_start": "2026-11-23",
-      "am": 38407883,
-      "pm": 38407918
-    },
-    {
-      "week_start": "2026-11-30",
-      "am": 38408025,
-      "pm": 38408070
-    },
-    {
-      "week_start": "2026-12-07",
-      "am": 38408122,
-      "pm": 38408217
-    }
-  ],
+  "weekly_picks": [],
   "prompts": [
     {
       "id": 38586144,
@@ -399,104 +424,110 @@
   "workshops": [
     {
       "id": 2957266,
-      "title": "Workshop: Parts Work Creative Edition",
+      "title": "Parts Work Creative Edition",
       "url": "https://community.creativeliving.world/c/workshop-parts-work-creative-edition",
-      "rows": [],
-      "is_replay": false
+      "rows": [
+        612721
+      ]
     },
     {
       "id": 2957265,
-      "title": "Workshop: Neuroscience and Somatics of Imagination",
+      "title": "Neuroscience and Somatics of Imagination",
       "url": "https://community.creativeliving.world/c/workshop-neuroscience-and-somatics-of-imagination",
-      "rows": [],
-      "is_replay": false
+      "rows": [
+        612721
+      ]
     },
     {
       "id": 2957264,
-      "title": "Workshop: Integration and Containment",
+      "title": "Integration and Containment",
       "url": "https://community.creativeliving.world/c/workshop-integration-and-containment",
-      "rows": [],
-      "is_replay": false
-    },
-    {
-      "id": 2957192,
-      "title": "Uncover Original Thinking",
-      "url": "https://community.creativeliving.world/c/uncover-original-thinking",
-      "rows": [],
-      "is_replay": false
+      "rows": [
+        612721
+      ]
     },
     {
       "id": 2907436,
       "title": "Roundtables",
       "url": "https://community.creativeliving.world/c/roundtables",
-      "rows": [],
-      "is_replay": false,
-      "cover": "https://assets-v2.circle.so/fxabg373xerbl22er1o8sff4xotu",
-      "outcome": "[TEST] Hear how other members shape their week, and leave with one idea to try."
-    },
-    {
-      "id": 2907435,
-      "title": "Workshop 3",
-      "url": "https://community.creativeliving.world/c/workshop-3",
       "rows": [
-        612721,
         612723
       ],
-      "is_replay": false,
-      "outcome": "[TEST] A long outcome line to check wrapping: come away with a gentle weekly rhythm for writing, moving and resting, so the work keeps going even on the hard days."
-    },
-    {
-      "id": 2907433,
-      "title": "Workshop 2",
-      "url": "https://community.creativeliving.world/c/workshop-2",
-      "rows": [
-        612722
-      ],
-      "is_replay": false,
-      "cover": "https://assets-v2.circle.so/0eowj79rs6yx3vvvc6xv5gqul80r"
-    },
-    {
-      "id": 2907432,
-      "title": "Workshop 1",
-      "url": "https://community.creativeliving.world/c/workshop-1",
-      "rows": [
-        612708,
-        612721
-      ],
-      "is_replay": true,
       "cover": "https://assets-v2.circle.so/fxabg373xerbl22er1o8sff4xotu",
-      "outcome": "[TEST] Leave with three ways to start writing when the page feels blank."
+      "outcome": "[TEST] Hear how other members shape their week, and leave with one idea to try."
     }
   ],
   "journeys": [
     {
       "id": 2957327,
       "title": "Writing From the Messy Middle",
-      "url": "https://community.creativeliving.world/c/writing-from-the-messy-middle"
+      "url": "https://community.creativeliving.world/c/writing-from-the-messy-middle",
+      "weeks": 1,
+      "minutes_per_day": 20
     },
     {
       "id": 2957305,
       "title": "Writing Your Future",
-      "url": "https://community.creativeliving.world/c/writing-your-future"
+      "url": "https://community.creativeliving.world/c/writing-your-future",
+      "weeks": 2,
+      "minutes_per_day": 20
     },
     {
       "id": 2957298,
       "title": "Writing For Impact + Cultural Contribution",
-      "url": "https://community.creativeliving.world/c/writing-for-impact-cultural-contribution"
+      "url": "https://community.creativeliving.world/c/writing-for-impact-cultural-contribution",
+      "weeks": 3,
+      "minutes_per_day": 20
     },
     {
-      "id": 2907483,
-      "title": "Take Your Thinking Back",
-      "url": "https://community.creativeliving.world/c/take-your-thinking-back",
-      "weeks": 6,
-      "minutes_per_day": 15,
-      "outcome": "[TEST] Reclaim your attention and think for yourself again."
+      "id": 2957192,
+      "title": "Uncover Original Thinking",
+      "url": "https://community.creativeliving.world/c/uncover-original-thinking",
+      "weeks": 5,
+      "minutes_per_day": 20
+    },
+    {
+      "id": 2957184,
+      "title": "Say The Damn Thing",
+      "url": "https://community.creativeliving.world/c/say-the-damn-thing",
+      "weeks": 2,
+      "minutes_per_day": 20
+    },
+    {
+      "id": 2957150,
+      "title": "Publishing Your Work",
+      "url": "https://community.creativeliving.world/c/publishing-your-work",
+      "weeks": 4,
+      "minutes_per_day": 20
+    },
+    {
+      "id": 2957105,
+      "title": "Personal Column Writing",
+      "url": "https://community.creativeliving.world/c/personal-column-writing",
+      "weeks": 4,
+      "minutes_per_day": 20
+    },
+    {
+      "id": 2957088,
+      "title": "New Season ( of Revelations )",
+      "url": "https://community.creativeliving.world/c/new-season-of-revelations",
+      "weeks": 2,
+      "minutes_per_day": 60
+    },
+    {
+      "id": 2956383,
+      "title": "Into The Deep : Tantra",
+      "url": "https://community.creativeliving.world/c/into-the-deep-tantra",
+      "weeks": 2,
+      "minutes_per_day": 60
     },
     {
       "id": 2907482,
       "title": "Creating from The Body (YIN)",
       "url": "https://community.creativeliving.world/c/creating-from-the-body-yin",
       "cover": "https://assets-v2.circle.so/obpw7o3k5qyl8rpto7xumm2oxbdo",
+      "weeks": 2,
+      "minutes_per_day": 20,
       "outcome": "[TEST] Let your body lead your creative work through gentle Yin practice."
     },
     {
@@ -504,26 +535,8 @@
       "title": "Expanded Collection (NS 101)",
       "url": "https://community.creativeliving.world/c/expanded-collection-ns-101",
       "cover": "https://assets-v2.circle.so/obpw7o3k5qyl8rpto7xumm2oxbdo",
-      "weeks": 4,
+      "weeks": 2,
       "minutes_per_day": 15
-    },
-    {
-      "id": 2907480,
-      "title": "Personal Column Writing Challenge",
-      "url": "https://community.creativeliving.world/c/personal-column-writing-challenge",
-      "cover": "https://assets-v2.circle.so/obpw7o3k5qyl8rpto7xumm2oxbdo",
-      "weeks": 6,
-      "minutes_per_day": 20,
-      "outcome": "[TEST] Write and share your own personal column, step by step."
-    },
-    {
-      "id": 2907478,
-      "title": "Spring Publishing Challenge",
-      "url": "https://community.creativeliving.world/c/spring-publishing-challenge",
-      "cover": "https://assets-v2.circle.so/obpw7o3k5qyl8rpto7xumm2oxbdo",
-      "weeks": 4,
-      "minutes_per_day": 15,
-      "outcome": "[TEST] Finish and publish one piece of writing in four weeks."
     }
   ],
   "links": {
