@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-26T17:38:33.350Z",
-    "build_version": "sync 62f67ad",
+    "generated_at": "2026-11-26T20:34:09.004Z",
+    "build_version": "sync 661794a",
     "community": "community.creativeliving.world",
-    "warnings_count": 73
+    "warnings_count": 56
   },
   "labels": [
     {
@@ -221,7 +221,7 @@
         595586
       ],
       "cover": "https://assets-v2.circle.so/n0iaslbq6gz861xqca0eg7h99yri",
-      "time": 595580,
+      "time": 595581,
       "type": 595571
     },
     {
@@ -499,7 +499,7 @@
     },
     {
       "id": 38772369,
-      "title": "\"I can hold it\" hypnosis journey (2025)\nEmpty",
+      "title": "\"I can hold it\" hypnosis journey",
       "url": "https://community.creativeliving.world/c/the-studio/i-can-hold-it-hypnosis-journey-2025-empty",
       "needs": [
         595583,
@@ -520,7 +520,7 @@
         595587
       ],
       "cover": "https://assets-v2.circle.so/tkpe1rirr3uig1j2p50e8ob8scbx",
-      "time": 595581,
+      "time": 595580,
       "type": 595577
     },
     {
@@ -794,6 +794,7 @@
       "needs": [
         610873
       ],
+      "cover": "https://assets-v2.circle.so/f7brba2ows8sj367mpv8d9iksj2y",
       "time": 618811
     },
     {
@@ -853,6 +854,7 @@
         595586,
         610874
       ],
+      "cover": "https://assets-v2.circle.so/9yl1jx67brsf4jzqha4ti7bzpqg2",
       "time": 595581
     },
     {
@@ -1058,66 +1060,75 @@
     },
     {
       "id": 38784826,
-      "title": "Daily prompt 8",
+      "title": "Pretending Not To Know",
       "url": "https://community.creativeliving.world/c/daily-prompts/daily-prompt-8",
       "part": 2907457,
-      "needs": []
+      "needs": [],
+      "time": 595580
     },
     {
       "id": 38784825,
-      "title": "Daily prompt 6",
+      "title": "Writing For No One",
       "url": "https://community.creativeliving.world/c/daily-prompts/daily-prompt-6",
       "part": 2907457,
-      "needs": []
+      "needs": [],
+      "time": 595580
     },
     {
       "id": 38784824,
-      "title": "Daily prompt 5",
+      "title": "The Moment You'd Already Changed",
       "url": "https://community.creativeliving.world/c/daily-prompts/daily-prompt-5",
       "part": 2907457,
-      "needs": []
+      "needs": [],
+      "time": 595580
     },
     {
       "id": 38784823,
-      "title": "Daily prompt 7",
+      "title": "Things You've Stopped Caring About",
       "url": "https://community.creativeliving.world/c/daily-prompts/daily-prompt-7",
       "part": 2907457,
-      "needs": []
+      "needs": [],
+      "time": 595580
     },
     {
       "id": 38784822,
-      "title": "Daily prompt 9",
+      "title": "Letting It Be Easy",
       "url": "https://community.creativeliving.world/c/daily-prompts/daily-prompt-9",
       "part": 2907457,
-      "needs": []
+      "needs": [],
+      "time": 595580
     },
     {
       "id": 38784821,
-      "title": "Daily prompt 3",
+      "title": "Your Useless Genius",
       "url": "https://community.creativeliving.world/c/daily-prompts/daily-prompt-3",
       "part": 2907457,
-      "needs": []
+      "needs": [],
+      "time": 595580
     },
     {
       "id": 38784820,
-      "title": "Daily prompt 4",
+      "title": "Today, Through Your Senses",
       "url": "https://community.creativeliving.world/c/daily-prompts/daily-prompt-4",
       "part": 2907457,
-      "needs": []
+      "needs": [],
+      "time": 595580
     },
     {
       "id": 38784819,
-      "title": "Daily prompt 2",
+      "title": "The Decision You Got Right",
       "url": "https://community.creativeliving.world/c/daily-prompts/daily-prompt-2",
       "part": 2907457,
-      "needs": []
+      "needs": [],
+      "time": 595580
     },
     {
       "id": 38784817,
-      "title": "Daily prompt 1",
+      "title": "The Untold Version",
       "url": "https://community.creativeliving.world/c/daily-prompts/daily-prompt-1",
       "part": 2907457,
-      "needs": []
+      "needs": [],
+      "time": 595580
     },
     {
       "id": 38784816,
@@ -1235,7 +1246,6 @@
       "rows": [
         612723
       ],
-      "cover": "https://assets-v2.circle.so/fxabg373xerbl22er1o8sff4xotu",
       "outcome": "You’ll answer the questions: How do we create work that really matters? That has the power to make the future better?"
     }
   ],
@@ -1316,7 +1326,6 @@
       "id": 2907482,
       "title": "Creating from The Body (YIN)",
       "url": "https://community.creativeliving.world/c/creating-from-the-body-yin",
-      "cover": "https://assets-v2.circle.so/obpw7o3k5qyl8rpto7xumm2oxbdo",
       "weeks": 2,
       "minutes_per_day": 20,
       "outcome": "A body that's softer, clearer and ready to create, with short Yin, breath and sound practices to come back to whenever you feel stuck or full."
@@ -1325,7 +1334,6 @@
       "id": 2907481,
       "title": "Expanded Collection (NS 101)",
       "url": "https://community.creativeliving.world/c/expanded-collection-ns-101",
-      "cover": "https://assets-v2.circle.so/obpw7o3k5qyl8rpto7xumm2oxbdo",
       "weeks": 2,
       "minutes_per_day": 15,
       "outcome": "An understanding of how your nervous system shapes your creativity, and simple practices to hold more visibility and expansion without shutting down."
