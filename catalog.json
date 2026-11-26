@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-26T20:44:26.330Z",
+    "generated_at": "2026-11-26T20:48:13.829Z",
     "build_version": "sync 661794a",
     "community": "community.creativeliving.world",
-    "warnings_count": 40
+    "warnings_count": 16
   },
   "labels": [
     {
@@ -115,11 +115,6 @@
       "group": "writing_part",
       "id": 2907457,
       "name": "Daily Prompts"
-    },
-    {
-      "group": "writing_part",
-      "id": 2965090,
-      "name": "Migration"
     },
     {
       "group": "writing_part",
@@ -1189,62 +1184,6 @@
       "part": 2907457,
       "needs": [],
       "time": 595580
-    },
-    {
-      "id": 38784816,
-      "title": "Intro: Uncover your original thinking",
-      "url": "https://community.creativeliving.world/c/migration/intro-uncover-your-original-thinking",
-      "part": 2965090,
-      "needs": []
-    },
-    {
-      "id": 38784814,
-      "title": "Intro: Writing for Impact",
-      "url": "https://community.creativeliving.world/c/migration/intro-writing-for-impact",
-      "part": 2965090,
-      "needs": []
-    },
-    {
-      "id": 38784813,
-      "title": "EFT to say the damn thing",
-      "url": "https://community.creativeliving.world/c/migration/eft-to-say-the-damn-thing",
-      "part": 2965090,
-      "needs": []
-    },
-    {
-      "id": 38784809,
-      "title": "12 day foundations: what is it (text)",
-      "url": "https://community.creativeliving.world/c/migration/12-day-foundations-what-is-it-text",
-      "part": 2965090,
-      "needs": []
-    },
-    {
-      "id": 38784808,
-      "title": "How to navigate the CL platform",
-      "url": "https://community.creativeliving.world/c/migration/how-to-navigate-the-cl-platform",
-      "part": 2965090,
-      "needs": []
-    },
-    {
-      "id": 38784807,
-      "title": "Welcome to CL 3.0",
-      "url": "https://community.creativeliving.world/c/migration/welcome-to-cl-3-0",
-      "part": 2965090,
-      "needs": []
-    },
-    {
-      "id": 38784805,
-      "title": "Introduction (to record)",
-      "url": "https://community.creativeliving.world/c/migration/introduction-to-record",
-      "part": 2965090,
-      "needs": []
-    },
-    {
-      "id": 38784772,
-      "title": "Yin Foundations: Intro to Yin Yoga",
-      "url": "https://community.creativeliving.world/c/migration/yin-foundations-intro-to-yin-yoga",
-      "part": 2965090,
-      "needs": []
     },
     {
       "id": 38784721,
