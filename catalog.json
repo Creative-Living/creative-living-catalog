@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-25T20:56:09.303Z",
-    "build_version": "sync 53a34f2",
+    "generated_at": "2026-11-26T17:38:33.350Z",
+    "build_version": "sync 62f67ad",
     "community": "community.creativeliving.world",
-    "warnings_count": 36
+    "warnings_count": 73
   },
   "labels": [
     {
@@ -13,8 +13,18 @@
     },
     {
       "group": "type",
+      "id": 595572,
+      "name": "EFT"
+    },
+    {
+      "group": "type",
       "id": 595573,
       "name": "Somatic Experiencing"
+    },
+    {
+      "group": "type",
+      "id": 595574,
+      "name": "Breath"
     },
     {
       "group": "type",
@@ -33,11 +43,6 @@
     },
     {
       "group": "time",
-      "id": 595579,
-      "name": "Under 5 min"
-    },
-    {
-      "group": "time",
       "id": 595580,
       "name": "5-15 min"
     },
@@ -45,6 +50,11 @@
       "group": "time",
       "id": 595581,
       "name": "15-30 min"
+    },
+    {
+      "group": "time",
+      "id": 595582,
+      "name": "30-60 min"
     },
     {
       "group": "need",
@@ -92,9 +102,9 @@
       "name": "60+ min"
     },
     {
-      "group": "writing_part",
-      "id": 2907457,
-      "name": "Daily Prompts"
+      "group": "type",
+      "id": 618812,
+      "name": "Lymphatic"
     },
     {
       "group": "writing_part",
@@ -103,11 +113,353 @@
     },
     {
       "group": "writing_part",
+      "id": 2907457,
+      "name": "Daily Prompts"
+    },
+    {
+      "group": "writing_part",
+      "id": 2965090,
+      "name": "Migration"
+    },
+    {
+      "group": "writing_part",
       "id": 2907460,
       "name": "Editing Tools"
     }
   ],
   "practices": [
+    {
+      "id": 38788809,
+      "title": "EFT I Am Safe With \"More\"",
+      "url": "https://community.creativeliving.world/c/the-studio/eft-i-am-safe-with-more",
+      "needs": [
+        595586,
+        610872
+      ],
+      "cover": "https://assets-v2.circle.so/npswnfr72vqqhszrgdo63o4wsefb",
+      "time": 595580,
+      "type": 595572
+    },
+    {
+      "id": 38788598,
+      "title": "EFT Self-Trust Is My Foundation",
+      "url": "https://community.creativeliving.world/c/the-studio/eft-self-trust-is-my-foundation",
+      "needs": [
+        595583,
+        595586
+      ],
+      "cover": "https://assets-v2.circle.so/9qma9ik4kcjfnopsg90rg0kdykm3",
+      "time": 595580,
+      "type": 595572
+    },
+    {
+      "id": 38788490,
+      "title": "Clear The Channel",
+      "url": "https://community.creativeliving.world/c/the-studio/clear-the-channel",
+      "needs": [
+        595583,
+        595587
+      ],
+      "cover": "https://assets-v2.circle.so/tjcfaqe1blvk5u89lhw0ggb7y3rr",
+      "time": 595581,
+      "type": 595578
+    },
+    {
+      "id": 38787437,
+      "title": "EFT Reframe Perfectionism",
+      "url": "https://community.creativeliving.world/c/the-studio/eft-reframe-perfectionism",
+      "needs": [
+        595583,
+        595587,
+        610873
+      ],
+      "cover": "https://assets-v2.circle.so/0n7rqusry4dxom3h6x2jwhqgsx8l",
+      "time": 595580,
+      "type": 595572
+    },
+    {
+      "id": 38787313,
+      "title": "EFT Inviting Play Energy",
+      "url": "https://community.creativeliving.world/c/the-studio/eft-inviting-play-energy",
+      "needs": [
+        610874
+      ],
+      "cover": "https://assets-v2.circle.so/x8tttcggcghlbairf57ek66p9til",
+      "time": 595580,
+      "type": 595572
+    },
+    {
+      "id": 38787224,
+      "title": "EFT Letting myself be seen",
+      "url": "https://community.creativeliving.world/c/the-studio/eft-letting-myself-be-seen",
+      "needs": [
+        595583,
+        595586
+      ],
+      "cover": "https://assets-v2.circle.so/bxhvt8y3dgicsocnu973qh8635qs",
+      "time": 595580,
+      "type": 595572
+    },
+    {
+      "id": 38787123,
+      "title": "EFT Stop Procrastinating Now",
+      "url": "https://community.creativeliving.world/c/the-studio/eft-stop-procrastinating-now",
+      "needs": [
+        595583,
+        595587
+      ],
+      "cover": "https://assets-v2.circle.so/4wrh2aulqjmki6kk1a0llsmquoqz",
+      "time": 595580,
+      "type": 595572
+    },
+    {
+      "id": 38786767,
+      "title": "Journey Through The Energy Centers – Sleep Meditation",
+      "url": "https://community.creativeliving.world/c/the-studio/journey-through-the-energy-centers-sleep-meditation",
+      "needs": [
+        595583,
+        595586
+      ],
+      "cover": "https://assets-v2.circle.so/n0iaslbq6gz861xqca0eg7h99yri",
+      "time": 595580,
+      "type": 595571
+    },
+    {
+      "id": 38786757,
+      "title": "Pierce The Moon: Yin Breathwork",
+      "url": "https://community.creativeliving.world/c/the-studio/pierce-the-moon-yin-breathwork",
+      "needs": [
+        595583,
+        595586,
+        610873
+      ],
+      "cover": "https://assets-v2.circle.so/o643gerpmohaws4r2u1tq1adnbjk",
+      "time": 595581,
+      "type": 595574
+    },
+    {
+      "id": 38784661,
+      "title": "Future Self Activation",
+      "url": "https://community.creativeliving.world/c/the-studio/future-self-activation",
+      "needs": [
+        610872,
+        610873
+      ],
+      "cover": "https://assets-v2.circle.so/q4n15zlkbkka83m4un7l525ypka4",
+      "time": 595581,
+      "type": 595571
+    },
+    {
+      "id": 38784535,
+      "title": "Rest and Receive – Legs Up The Wall",
+      "url": "https://community.creativeliving.world/c/the-studio/rest-and-receive-legs-up-the-wall",
+      "needs": [
+        595583,
+        595587
+      ],
+      "cover": "https://assets-v2.circle.so/62be3lmxtnqthw91ueijcerb0jhq",
+      "time": 595580,
+      "type": 618812
+    },
+    {
+      "id": 38784503,
+      "title": "EFT life is poetry on repeat",
+      "url": "https://community.creativeliving.world/c/the-studio/eft-life-is-poetry-on-repeat",
+      "needs": [
+        610873,
+        610874
+      ],
+      "cover": "https://assets-v2.circle.so/f63onjy3ifaq6fa8m0n6oa58m4ol",
+      "time": 595580,
+      "type": 595572
+    },
+    {
+      "id": 38784476,
+      "title": "EFT Embrace Your Potential Now",
+      "url": "https://community.creativeliving.world/c/the-studio/eft-embrace-your-potential-now",
+      "needs": [
+        595586,
+        610872,
+        610873
+      ],
+      "cover": "https://assets-v2.circle.so/6v5lstobnz3pewse2621wshq0vvi",
+      "time": 595580,
+      "type": 595572
+    },
+    {
+      "id": 38784114,
+      "title": "Beaming The Future",
+      "url": "https://community.creativeliving.world/c/the-studio/beaming-the-future",
+      "needs": [
+        595583,
+        595586,
+        610872
+      ],
+      "cover": "https://assets-v2.circle.so/t21ey6nf9xjv2g82rkkpjp713gs3",
+      "time": 595581,
+      "type": 595576
+    },
+    {
+      "id": 38784000,
+      "title": "EFT Permission To Rest",
+      "url": "https://community.creativeliving.world/c/the-studio/eft-permission-to-rest",
+      "needs": [
+        595583,
+        595587
+      ],
+      "cover": "https://assets-v2.circle.so/8oi9x804c48g9egiqml552p6jrki",
+      "time": 595580,
+      "type": 595572
+    },
+    {
+      "id": 38783949,
+      "title": "EFT for Instant Confidence",
+      "url": "https://community.creativeliving.world/c/the-studio/eft-for-instant-confidence",
+      "needs": [
+        610872,
+        610873
+      ],
+      "cover": "https://assets-v2.circle.so/4zbbwl5p1bvydw1u53fo7ncansjh",
+      "time": 595580,
+      "type": 595572
+    },
+    {
+      "id": 38783852,
+      "title": "EFT Expand Your Capacity",
+      "url": "https://community.creativeliving.world/c/the-studio/eft-expand-your-capacity",
+      "needs": [
+        595583,
+        610872
+      ],
+      "cover": "https://assets-v2.circle.so/lt2dd697vsyr0zkeute66t2i9pls",
+      "time": 595580,
+      "type": 595572
+    },
+    {
+      "id": 38783698,
+      "title": "EFT Creation Is My Natural State",
+      "url": "https://community.creativeliving.world/c/the-studio/eft-creation-is-my-natural-state",
+      "needs": [
+        595586,
+        610873,
+        610874
+      ],
+      "cover": "https://assets-v2.circle.so/3b2h2z9r7kh3gzt5gu1vp14w8a5z",
+      "time": 595580,
+      "type": 595572
+    },
+    {
+      "id": 38783607,
+      "title": "Walk The Muse – Walking Meditation",
+      "url": "https://community.creativeliving.world/c/the-studio/walk-the-muse-walking-meditation",
+      "needs": [
+        610872,
+        610873,
+        610874
+      ],
+      "cover": "https://assets-v2.circle.so/xu2k76cj6ux0z33oejyt6rbugk8e",
+      "time": 595581,
+      "type": 595571
+    },
+    {
+      "id": 38783397,
+      "title": "EFT Softening My Inner Critic",
+      "url": "https://community.creativeliving.world/c/the-studio/eft-softening-my-inner-critic",
+      "needs": [
+        595583,
+        595586,
+        595587
+      ],
+      "cover": "https://assets-v2.circle.so/l39ozkmc92xyia2zwsrp6scj4qxo",
+      "time": 595580,
+      "type": 595572
+    },
+    {
+      "id": 38783302,
+      "title": "Blue River Lymphatic + Adrenal Reset",
+      "url": "https://community.creativeliving.world/c/the-studio/blue-river-lymphatic-adrenal-reset",
+      "needs": [
+        595583,
+        595586,
+        595587
+      ],
+      "cover": "https://assets-v2.circle.so/0o3b95km481gus5qygrqho4w6p5m",
+      "time": 595581,
+      "type": 595578
+    },
+    {
+      "id": 38783205,
+      "title": "EFT Turning Comparison Into Compassion",
+      "url": "https://community.creativeliving.world/c/the-studio/eft-turning-comparison-into-compassion",
+      "needs": [
+        595583,
+        595586
+      ],
+      "cover": "https://assets-v2.circle.so/ztflpjyhzgx7l8dcbfcz8g6bh5g1",
+      "time": 595580,
+      "type": 595572
+    },
+    {
+      "id": 38783092,
+      "title": "Awakening To Beauty And Creativity – Autosuggestions",
+      "url": "https://community.creativeliving.world/c/the-studio/awakening-to-beauty-and-creativity-autosuggestions",
+      "needs": [
+        595583,
+        610874
+      ],
+      "cover": "https://assets-v2.circle.so/79mffvrbg94m9lropys7cupb71ux",
+      "time": 595581,
+      "type": 595578
+    },
+    {
+      "id": 38782944,
+      "title": "EFT My Ideas Can Take Up Space",
+      "url": "https://community.creativeliving.world/c/the-studio/eft-my-ideas-can-take-up-space",
+      "needs": [
+        595583,
+        595586
+      ],
+      "cover": "https://assets-v2.circle.so/7yccm77ipkhfh5ttyepsgpfpautt",
+      "time": 595580,
+      "type": 595572
+    },
+    {
+      "id": 38782890,
+      "title": "EFT Transforming Uncertainty Into Possibility",
+      "url": "https://community.creativeliving.world/c/the-studio/eft-transforming-uncertainty-into-possibility",
+      "needs": [
+        595583,
+        610872
+      ],
+      "cover": "https://assets-v2.circle.so/bn4eoyljhzib3idtds1ciuwh8y5e",
+      "time": 595580,
+      "type": 595572
+    },
+    {
+      "id": 38782816,
+      "title": "Return to the waterfall",
+      "url": "https://community.creativeliving.world/c/the-studio/return-to-the-waterfall",
+      "needs": [
+        595586,
+        610873
+      ],
+      "cover": "https://assets-v2.circle.so/ixvlawu1rhbqb7witr71bdi8bxtf",
+      "time": 618811,
+      "type": 595571
+    },
+    {
+      "id": 38782673,
+      "title": "Tantric Haar",
+      "url": "https://community.creativeliving.world/c/the-studio/tantric-haar",
+      "needs": [
+        595586,
+        610873,
+        610874
+      ],
+      "cover": "https://assets-v2.circle.so/94r1spu4uohxoa9i7q8utt533kt2",
+      "time": 618811,
+      "type": 595576
+    },
     {
       "id": 38772785,
       "title": "Radiant Body Technology – Radiance Kriya",
@@ -294,142 +646,558 @@
       "pm": 38769530
     }
   ],
-  "prompts": [
-    {
-      "id": 38586144,
-      "title": "[TEST] Daily Prompt 1",
-      "url": "https://community.creativeliving.world/c/daily-prompts/test-daily-prompt-1",
-      "day": 1,
-      "cover": "https://assets-v2.circle.so/fxabg373xerbl22er1o8sff4xotu"
-    },
-    {
-      "id": 38586151,
-      "title": "[TEST] Daily Prompt 2",
-      "url": "https://community.creativeliving.world/c/daily-prompts/test-daily-prompt-2",
-      "day": 2,
-      "cover": "https://assets-v2.circle.so/fxabg373xerbl22er1o8sff4xotu"
-    },
-    {
-      "id": 38586152,
-      "title": "[TEST] Daily Prompt 3 Dummy search word",
-      "url": "https://community.creativeliving.world/c/daily-prompts/test-daily-prompt-3-dummy-search-word",
-      "day": 3,
-      "cover": "https://assets-v2.circle.so/fxabg373xerbl22er1o8sff4xotu"
-    },
-    {
-      "id": 38586154,
-      "title": "[TEST] Daily Prompt 4 with a very very very long long long long long long title",
-      "url": "https://community.creativeliving.world/c/daily-prompts/test-daily-prompt-4-with-a-very-very-very-long-long-long-long-long-long-title",
-      "day": 4,
-      "cover": "https://assets-v2.circle.so/fxabg373xerbl22er1o8sff4xotu"
-    },
-    {
-      "id": 38586155,
-      "title": "[TEST] Daily Prompt 5 no time",
-      "url": "https://community.creativeliving.world/c/daily-prompts/test-daily-prompt-5-no-time",
-      "day": 5,
-      "cover": "https://assets-v2.circle.so/fxabg373xerbl22er1o8sff4xotu"
-    }
-  ],
+  "prompts": [],
   "writing": [
     {
-      "id": 38586155,
-      "title": "[TEST] Daily Prompt 5 no time",
-      "url": "https://community.creativeliving.world/c/daily-prompts/test-daily-prompt-5-no-time",
+      "id": 38784799,
+      "title": "Week-long morning writing practice: Imagining Your Way Back to Life",
+      "url": "https://community.creativeliving.world/c/expression-exercises/week-long-morning-writing-practice-imagining-your-way-back-to-life",
+      "part": 2907458,
+      "needs": [
+        595583,
+        595586,
+        610872
+      ],
+      "cover": "https://assets-v2.circle.so/tqdcrwmtrcgl3jd2g76dqfaij7jq",
+      "time": 595581
+    },
+    {
+      "id": 38784798,
+      "title": "Personal Column Writing: Ordinary Moments",
+      "url": "https://community.creativeliving.world/c/expression-exercises/personal-column-writing-ordinary-moments",
+      "part": 2907458,
+      "needs": [
+        595583,
+        610873,
+        610874
+      ],
+      "cover": "https://assets-v2.circle.so/5clzizbyqvpocs7adzemzd5garsm",
+      "time": 595581
+    },
+    {
+      "id": 38784796,
+      "title": "Personal Column Writing: Your Contradictions",
+      "url": "https://community.creativeliving.world/c/expression-exercises/personal-column-writing-your-contradictions",
+      "part": 2907458,
+      "needs": [
+        595586,
+        610873,
+        610874
+      ],
+      "cover": "https://assets-v2.circle.so/swylc4lg6lcceku2iqz7qgvy4qxy",
+      "time": 595581
+    },
+    {
+      "id": 38784793,
+      "title": "The situation + The story",
+      "url": "https://community.creativeliving.world/c/expression-exercises/the-situation-the-story",
+      "part": 2907458,
+      "needs": [
+        610872,
+        610873,
+        610874
+      ],
+      "cover": "https://assets-v2.circle.so/729s6ecd16edcdco01jffhn1c2g7",
+      "time": 595580
+    },
+    {
+      "id": 38784792,
+      "title": "Personal Column Writing: Versions of You",
+      "url": "https://community.creativeliving.world/c/expression-exercises/personal-column-writing-versions-of-you",
+      "part": 2907458,
+      "needs": [
+        595583,
+        595587
+      ],
+      "cover": "https://assets-v2.circle.so/8h0izghsl33qaixd5h5l3gx696ay",
+      "time": 595581
+    },
+    {
+      "id": 38784791,
+      "title": "PM Expression Ritual: Making Contact with Attention",
+      "url": "https://community.creativeliving.world/c/expression-exercises/pm-expression-ritual-making-contact-with-attention",
+      "part": 2907458,
+      "needs": [
+        595586,
+        610873
+      ],
+      "cover": "https://assets-v2.circle.so/s3dcxcyczx6p3nrcwll16tod32e8",
+      "time": 595581
+    },
+    {
+      "id": 38784787,
+      "title": "Personal Column Writing: For Overthinking",
+      "url": "https://community.creativeliving.world/c/expression-exercises/personal-column-writing-for-overthinking",
+      "part": 2907458,
+      "needs": [
+        595583,
+        595586,
+        595587
+      ],
+      "cover": "https://assets-v2.circle.so/iwih39ybqq7m1zwgghe28uona9ua",
+      "time": 595581
+    },
+    {
+      "id": 38784786,
+      "title": "Personal Column Writing: Things You've Believed Too Long",
+      "url": "https://community.creativeliving.world/c/expression-exercises/personal-column-writing-things-you-ve-believed-too-long",
+      "part": 2907458,
+      "needs": [
+        595583,
+        595586,
+        595587
+      ],
+      "cover": "https://assets-v2.circle.so/mxhruvh937wvf6u795tfwusuv774",
+      "time": 595580
+    },
+    {
+      "id": 38784785,
+      "title": "Writing In Public",
+      "url": "https://community.creativeliving.world/c/expression-exercises/writing-in-public",
+      "part": 2907458,
+      "needs": [
+        610872,
+        610873
+      ],
+      "cover": "https://assets-v2.circle.so/k9wn1y7yvou75ngit15aoktqv6tc",
+      "time": 595582
+    },
+    {
+      "id": 38784782,
+      "title": "Personal Column Writing: Small Humiliations",
+      "url": "https://community.creativeliving.world/c/expression-exercises/personal-column-writing-small-humiliations",
+      "part": 2907458,
+      "needs": [
+        610872,
+        610874
+      ],
+      "cover": "https://assets-v2.circle.so/tshzkao48bbz1i2g9t42iqub45og",
+      "time": 595581
+    },
+    {
+      "id": 38784781,
+      "title": "Original Thinking Is Not What You Think It Is: Masterclass w/Lois",
+      "url": "https://community.creativeliving.world/c/expression-exercises/original-thinking-is-not-what-you-think-it-is-masterclass-w-lois",
+      "part": 2907458,
+      "needs": [
+        610872,
+        610873
+      ],
+      "cover": "https://assets-v2.circle.so/j31591km6ugdlwm94jk4r1l9j2o4",
+      "time": 618811
+    },
+    {
+      "id": 38784778,
+      "title": "Stock Room (from the closing call of 4th intensive)",
+      "url": "https://community.creativeliving.world/c/expression-exercises/stock-room-from-the-closing-call-of-4th-intensive",
+      "part": 2907458,
+      "needs": [
+        610873
+      ],
+      "time": 618811
+    },
+    {
+      "id": 38784775,
+      "title": "Personal Column Writing: Prompts About Strangers",
+      "url": "https://community.creativeliving.world/c/expression-exercises/personal-column-writing-prompts-about-strangers",
+      "part": 2907458,
+      "needs": [
+        595583,
+        610874
+      ],
+      "cover": "https://assets-v2.circle.so/swq5pr54sk0xp9tbpdjtddmapbp6",
+      "time": 595581
+    },
+    {
+      "id": 38784773,
+      "title": "Play week",
+      "url": "https://community.creativeliving.world/c/expression-exercises/play-week",
+      "part": 2907458,
+      "needs": [
+        610874
+      ],
+      "cover": "https://assets-v2.circle.so/tjg6izd7hgmp7f8g8sxf63yxqnlb",
+      "time": 595581
+    },
+    {
+      "id": 38784771,
+      "title": "Taking Your Thinking Back",
+      "url": "https://community.creativeliving.world/c/expression-exercises/taking-your-thinking-back",
+      "part": 2907458,
+      "needs": [
+        595583,
+        595587,
+        610873
+      ],
+      "cover": "https://assets-v2.circle.so/48f0u6th718o37sz5punfrhjra3b",
+      "time": 595582
+    },
+    {
+      "id": 38784766,
+      "title": "Revelation week",
+      "url": "https://community.creativeliving.world/c/expression-exercises/revelation-week",
+      "part": 2907458,
+      "needs": [
+        595583,
+        595587
+      ],
+      "cover": "https://assets-v2.circle.so/7zkvhmeogr4vpojqavci9l4vwloh",
+      "time": 595581
+    },
+    {
+      "id": 38784763,
+      "title": "Daily writing. Connection + storytelling.",
+      "url": "https://community.creativeliving.world/c/expression-exercises/daily-writing-connection-storytelling",
+      "part": 2907458,
+      "needs": [
+        595586,
+        610874
+      ],
+      "time": 595581
+    },
+    {
+      "id": 38784762,
+      "title": "7-day writing practice: Catching Your Original Thinking",
+      "url": "https://community.creativeliving.world/c/expression-exercises/7-day-writing-practice-catching-your-original-thinking",
+      "part": 2907458,
+      "needs": [
+        610872,
+        610873,
+        610874
+      ],
+      "cover": "https://assets-v2.circle.so/fwtgqad4jq999g5ytfhyutlun9jx",
+      "time": 595580
+    },
+    {
+      "id": 38784757,
+      "title": "In Your Own Words",
+      "url": "https://community.creativeliving.world/c/expression-exercises/in-your-own-words",
+      "part": 2907458,
+      "needs": [
+        595583,
+        610872,
+        610873
+      ],
+      "cover": "https://assets-v2.circle.so/e82ax1zty86a7ib9too48oz6i9tr",
+      "time": 595582
+    },
+    {
+      "id": 38784752,
+      "title": "Expression Week",
+      "url": "https://community.creativeliving.world/c/expression-exercises/expression-week",
+      "part": 2907458,
+      "needs": [
+        610873,
+        610874
+      ],
+      "cover": "https://assets-v2.circle.so/pifqt0ft2ql6u0nirdj28qkgjfr5",
+      "time": 595581
+    },
+    {
+      "id": 38784742,
+      "title": "Revelations Practice 2026",
+      "url": "https://community.creativeliving.world/c/expression-exercises/revelations-practice-2026",
+      "part": 2907458,
+      "needs": [
+        595586,
+        595587,
+        610873
+      ],
+      "cover": "https://assets-v2.circle.so/d3zfhg56uirz6yladny7oon94a8f",
+      "time": 595580
+    },
+    {
+      "id": 38784731,
+      "title": "The Creative Commitment",
+      "url": "https://community.creativeliving.world/c/expression-exercises/the-creative-commitment",
+      "part": 2907458,
+      "needs": [
+        595583,
+        595586,
+        610873
+      ],
+      "cover": "https://assets-v2.circle.so/9539yoqljuktiljli7be0lbjayy7",
+      "time": 595581
+    },
+    {
+      "id": 38784729,
+      "title": "Obsession Archeology",
+      "url": "https://community.creativeliving.world/c/expression-exercises/obsession-archeology",
+      "part": 2907458,
+      "needs": [
+        610872,
+        610873,
+        610874
+      ],
+      "cover": "https://assets-v2.circle.so/qjz6ygs8tairo7entz3ynvv9qwah",
+      "time": 595581
+    },
+    {
+      "id": 38784726,
+      "title": "Writing from The Messy Middle - Part II: The Practice",
+      "url": "https://community.creativeliving.world/c/expression-exercises/writing-from-the-messy-middle-part-ii-the-practice",
+      "part": 2907458,
+      "needs": [
+        595583,
+        595586,
+        610873
+      ],
+      "cover": "https://assets-v2.circle.so/kibepph1n43epjb7nki3bwzo5uu2",
+      "time": 595580
+    },
+    {
+      "id": 38784725,
+      "title": "Writing For Legacy",
+      "url": "https://community.creativeliving.world/c/expression-exercises/writing-for-legacy",
+      "part": 2907458,
+      "needs": [
+        610872,
+        610873
+      ],
+      "cover": "https://assets-v2.circle.so/l4u9enbj0o5ex0n61y7hz0v0gm7t",
+      "time": 595581
+    },
+    {
+      "id": 38784718,
+      "title": "Writing The Future",
+      "url": "https://community.creativeliving.world/c/expression-exercises/writing-the-future",
+      "part": 2907458,
+      "needs": [
+        610872,
+        610873
+      ],
+      "cover": "https://assets-v2.circle.so/i2u3ftavs3ym6rbq6jnrjzz8bgqy",
+      "time": 595581
+    },
+    {
+      "id": 38784716,
+      "title": "Building Your Practice",
+      "url": "https://community.creativeliving.world/c/expression-exercises/building-your-practice",
+      "part": 2907458,
+      "needs": [
+        595586,
+        610872,
+        610873
+      ],
+      "cover": "https://assets-v2.circle.so/sjeq1kls5zqap1ydi4tk2xwbt3a9",
+      "time": 595581
+    },
+    {
+      "id": 38784713,
+      "title": "Play Is The Love Language Of Your Subconscious",
+      "url": "https://community.creativeliving.world/c/expression-exercises/play-is-the-love-language-of-your-subconscious",
+      "part": 2907458,
+      "needs": [
+        595583,
+        595586,
+        610874
+      ],
+      "cover": "https://assets-v2.circle.so/zfkgavrczwri2hpgzluo0t2tudis",
+      "time": 595581
+    },
+    {
+      "id": 38784711,
+      "title": "Writing From The Messy Middle - Part III: The Prompts",
+      "url": "https://community.creativeliving.world/c/expression-exercises/writing-from-the-messy-middle-part-iii-the-prompts",
+      "part": 2907458,
+      "needs": [
+        595583,
+        595586
+      ],
+      "cover": "https://assets-v2.circle.so/sjaa9hdqkk90s63p0t8o76p7szgs",
+      "time": 595580
+    },
+    {
+      "id": 38784709,
+      "title": "Writing from The Messy Middle - Part I: The Lie",
+      "url": "https://community.creativeliving.world/c/expression-exercises/writing-from-the-messy-middle-part-i-the-lie",
+      "part": 2907458,
+      "needs": [
+        595583,
+        595586
+      ],
+      "cover": "https://assets-v2.circle.so/mpc8x07ewmjlixa81nko73j5yhie",
+      "time": 595580
+    },
+    {
+      "id": 38784692,
+      "title": "Play & Humor",
+      "url": "https://community.creativeliving.world/c/expression-exercises/play-humor",
+      "part": 2907458,
+      "needs": [
+        610874
+      ],
+      "cover": "https://assets-v2.circle.so/bhj4tprc1ue15kkqilppfkn3ci17",
+      "time": 595581
+    },
+    {
+      "id": 38784691,
+      "title": "Identity Exploration",
+      "url": "https://community.creativeliving.world/c/expression-exercises/identity-exploration",
+      "part": 2907458,
+      "needs": [
+        595583,
+        595586,
+        595587
+      ],
+      "cover": "https://assets-v2.circle.so/ndb2yew6lo57wb8simasq1gc4l0m",
+      "time": 595581
+    },
+    {
+      "id": 38784446,
+      "title": "Becoming The Future Creator",
+      "url": "https://community.creativeliving.world/c/expression-exercises/becoming-the-future-creator",
+      "part": 2907458,
+      "needs": [
+        595583,
+        610873,
+        610874
+      ],
+      "cover": "https://assets-v2.circle.so/en1su66kzd97sxqf187fv8rzh8yu",
+      "time": 595581
+    },
+    {
+      "id": 38784826,
+      "title": "Daily prompt 8",
+      "url": "https://community.creativeliving.world/c/daily-prompts/daily-prompt-8",
       "part": 2907457,
       "needs": []
     },
     {
-      "id": 38586154,
-      "title": "[TEST] Daily Prompt 4 with a very very very long long long long long long title",
-      "url": "https://community.creativeliving.world/c/daily-prompts/test-daily-prompt-4-with-a-very-very-very-long-long-long-long-long-long-title",
+      "id": 38784825,
+      "title": "Daily prompt 6",
+      "url": "https://community.creativeliving.world/c/daily-prompts/daily-prompt-6",
       "part": 2907457,
-      "needs": [
-        595586
-      ],
-      "time": 595581
+      "needs": []
     },
     {
-      "id": 38586152,
-      "title": "[TEST] Daily Prompt 3 Dummy search word",
-      "url": "https://community.creativeliving.world/c/daily-prompts/test-daily-prompt-3-dummy-search-word",
+      "id": 38784824,
+      "title": "Daily prompt 5",
+      "url": "https://community.creativeliving.world/c/daily-prompts/daily-prompt-5",
       "part": 2907457,
-      "needs": [],
-      "time": 595580
+      "needs": []
     },
     {
-      "id": 38586151,
-      "title": "[TEST] Daily Prompt 2",
-      "url": "https://community.creativeliving.world/c/daily-prompts/test-daily-prompt-2",
+      "id": 38784823,
+      "title": "Daily prompt 7",
+      "url": "https://community.creativeliving.world/c/daily-prompts/daily-prompt-7",
       "part": 2907457,
-      "needs": [],
-      "time": 595580
+      "needs": []
     },
     {
-      "id": 38586144,
-      "title": "[TEST] Daily Prompt 1",
-      "url": "https://community.creativeliving.world/c/daily-prompts/test-daily-prompt-1",
+      "id": 38784822,
+      "title": "Daily prompt 9",
+      "url": "https://community.creativeliving.world/c/daily-prompts/daily-prompt-9",
       "part": 2907457,
-      "needs": [
-        595583
-      ],
-      "time": 595579
+      "needs": []
     },
     {
-      "id": 38586196,
-      "title": "[TEST] The Practices 4 two times",
-      "url": "https://community.creativeliving.world/c/expression-exercises/test-the-practices-4-two-times",
-      "part": 2907458,
-      "needs": [
-        595583
-      ]
+      "id": 38784821,
+      "title": "Daily prompt 3",
+      "url": "https://community.creativeliving.world/c/daily-prompts/daily-prompt-3",
+      "part": 2907457,
+      "needs": []
     },
     {
-      "id": 38586195,
-      "title": "[TEST] The Practices 3 no need",
-      "url": "https://community.creativeliving.world/c/expression-exercises/test-the-practices-3-no-need",
-      "part": 2907458,
-      "needs": [],
-      "time": 595581
+      "id": 38784820,
+      "title": "Daily prompt 4",
+      "url": "https://community.creativeliving.world/c/daily-prompts/daily-prompt-4",
+      "part": 2907457,
+      "needs": []
     },
     {
-      "id": 38586194,
-      "title": "[TEST] The Practices 2 Dummy search word",
-      "url": "https://community.creativeliving.world/c/expression-exercises/test-the-practices-2-dummy-search-word",
-      "part": 2907458,
+      "id": 38784819,
+      "title": "Daily prompt 2",
+      "url": "https://community.creativeliving.world/c/daily-prompts/daily-prompt-2",
+      "part": 2907457,
+      "needs": []
+    },
+    {
+      "id": 38784817,
+      "title": "Daily prompt 1",
+      "url": "https://community.creativeliving.world/c/daily-prompts/daily-prompt-1",
+      "part": 2907457,
+      "needs": []
+    },
+    {
+      "id": 38784816,
+      "title": "Intro: Uncover your original thinking",
+      "url": "https://community.creativeliving.world/c/migration/intro-uncover-your-original-thinking",
+      "part": 2965090,
+      "needs": []
+    },
+    {
+      "id": 38784814,
+      "title": "Intro: Writing for Impact",
+      "url": "https://community.creativeliving.world/c/migration/intro-writing-for-impact",
+      "part": 2965090,
+      "needs": []
+    },
+    {
+      "id": 38784813,
+      "title": "EFT to say the damn thing",
+      "url": "https://community.creativeliving.world/c/migration/eft-to-say-the-damn-thing",
+      "part": 2965090,
+      "needs": []
+    },
+    {
+      "id": 38784809,
+      "title": "12 day foundations: what is it (text)",
+      "url": "https://community.creativeliving.world/c/migration/12-day-foundations-what-is-it-text",
+      "part": 2965090,
+      "needs": []
+    },
+    {
+      "id": 38784808,
+      "title": "How to navigate the CL platform",
+      "url": "https://community.creativeliving.world/c/migration/how-to-navigate-the-cl-platform",
+      "part": 2965090,
+      "needs": []
+    },
+    {
+      "id": 38784807,
+      "title": "Welcome to CL 3.0",
+      "url": "https://community.creativeliving.world/c/migration/welcome-to-cl-3-0",
+      "part": 2965090,
+      "needs": []
+    },
+    {
+      "id": 38784805,
+      "title": "Introduction (to record)",
+      "url": "https://community.creativeliving.world/c/migration/introduction-to-record",
+      "part": 2965090,
+      "needs": []
+    },
+    {
+      "id": 38784772,
+      "title": "Yin Foundations: Intro to Yin Yoga",
+      "url": "https://community.creativeliving.world/c/migration/yin-foundations-intro-to-yin-yoga",
+      "part": 2965090,
+      "needs": []
+    },
+    {
+      "id": 38784721,
+      "title": "The Alive Edit",
+      "url": "https://community.creativeliving.world/c/editing-tools/the-alive-edit",
+      "part": 2907460,
       "needs": [
-        595583,
+        595586,
         610872
       ],
-      "time": 595580
+      "cover": "https://assets-v2.circle.so/n26iek1492i2ygu3xbg8xsnomiyx",
+      "time": 595581
     },
     {
-      "id": 38586193,
-      "title": "[TEST] The Practices 1",
-      "url": "https://community.creativeliving.world/c/expression-exercises/test-the-practices-1",
-      "part": 2907458,
-      "needs": [
-        595586
-      ],
-      "time": 595579
-    },
-    {
-      "id": 38586268,
-      "title": "[TEST] Editing Tools 2 Release only here",
-      "url": "https://community.creativeliving.world/c/editing-tools/test-editing-tools-2-release-only-here",
+      "id": 38784715,
+      "title": "Sharpening Your Voice",
+      "url": "https://community.creativeliving.world/c/editing-tools/sharpening-your-voice",
       "part": 2907460,
       "needs": [
-        595587
+        595586,
+        610872
       ],
-      "time": 595580
-    },
-    {
-      "id": 38586267,
-      "title": "[TEST] Editing Tools 1",
-      "url": "https://community.creativeliving.world/c/editing-tools/test-editing-tools-1",
-      "part": 2907460,
-      "needs": [],
-      "time": 595579
+      "cover": "https://assets-v2.circle.so/pl0iyr4t7n62qql7zho4lpq62sog",
+      "time": 595581
     }
   ],
   "workshops": [
@@ -439,7 +1207,8 @@
       "url": "https://community.creativeliving.world/c/workshop-parts-work-creative-edition",
       "rows": [
         612721
-      ]
+      ],
+      "outcome": "A name for the inner voice editing you out of your best work, and a better job to give it."
     },
     {
       "id": 2957265,
@@ -447,7 +1216,8 @@
       "url": "https://community.creativeliving.world/c/workshop-neuroscience-and-somatics-of-imagination",
       "rows": [
         612721
-      ]
+      ],
+      "outcome": "How scrolling hijacks your imagination, and somatic practices to wake up the brain systems behind original thinking."
     },
     {
       "id": 2957264,
@@ -455,7 +1225,8 @@
       "url": "https://community.creativeliving.world/c/workshop-integration-and-containment",
       "rows": [
         612721
-      ]
+      ],
+      "outcome": "You’ll learn how to use the Somatic Experiencing principles of Integration and Containment in your practice."
     },
     {
       "id": 2907436,
@@ -465,7 +1236,7 @@
         612723
       ],
       "cover": "https://assets-v2.circle.so/fxabg373xerbl22er1o8sff4xotu",
-      "outcome": "[TEST] Hear how other members shape their week, and leave with one idea to try."
+      "outcome": "You’ll answer the questions: How do we create work that really matters? That has the power to make the future better?"
     }
   ],
   "journeys": [
@@ -474,63 +1245,72 @@
       "title": "Writing From the Messy Middle",
       "url": "https://community.creativeliving.world/c/writing-from-the-messy-middle",
       "weeks": 1,
-      "minutes_per_day": 20
+      "minutes_per_day": 20,
+      "outcome": "Permission and prompts to create from exactly where you are, mess and all, instead of waiting until you've figured it out."
     },
     {
       "id": 2957305,
       "title": "Writing Your Future",
       "url": "https://community.creativeliving.world/c/writing-your-future",
       "weeks": 2,
-      "minutes_per_day": 20
+      "minutes_per_day": 20,
+      "outcome": "A week of writing the future you actually want, not a vision board, and a creative commitment to hold yourself to."
     },
     {
       "id": 2957298,
       "title": "Writing For Impact + Cultural Contribution",
       "url": "https://community.creativeliving.world/c/writing-for-impact-cultural-contribution",
       "weeks": 3,
-      "minutes_per_day": 20
+      "minutes_per_day": 20,
+      "outcome": "A clear sense of the threads in your work and the worldview behind them, so you can create work that matters without burning out."
     },
     {
       "id": 2957192,
       "title": "Uncover Original Thinking",
       "url": "https://community.creativeliving.world/c/uncover-original-thinking",
       "weeks": 5,
-      "minutes_per_day": 20
+      "minutes_per_day": 20,
+      "outcome": "Your own thinking back: daily rituals for noticing, the opinions you've been softening, and the obsessions that are really your material."
     },
     {
       "id": 2957184,
       "title": "Say The Damn Thing",
       "url": "https://community.creativeliving.world/c/say-the-damn-thing",
       "weeks": 2,
-      "minutes_per_day": 20
+      "minutes_per_day": 20,
+      "outcome": "The nerve to say what you actually mean, and a body that lets your ideas take up space."
     },
     {
       "id": 2957150,
       "title": "Publishing Your Work",
       "url": "https://community.creativeliving.world/c/publishing-your-work",
       "weeks": 4,
-      "minutes_per_day": 20
+      "minutes_per_day": 20,
+      "outcome": "Four weeks, four published pieces, and a body that no longer shrinks right before you hit send."
     },
     {
       "id": 2957105,
       "title": "Personal Column Writing",
       "url": "https://community.creativeliving.world/c/personal-column-writing",
       "weeks": 4,
-      "minutes_per_day": 20
+      "minutes_per_day": 20,
+      "outcome": "The form for a personal column, a pile of drafts written from strangers, humiliations and contradictions, and the one piece worth growing."
     },
     {
       "id": 2957088,
       "title": "New Season ( of Revelations )",
       "url": "https://community.creativeliving.world/c/new-season-of-revelations",
       "weeks": 2,
-      "minutes_per_day": 60
+      "minutes_per_day": 60,
+      "outcome": "An honest look at what you made, what you were protecting, and what's ready to shift, so you can choose your next season on purpose."
     },
     {
       "id": 2956383,
       "title": "Into The Deep : Tantra",
       "url": "https://community.creativeliving.world/c/into-the-deep-tantra",
       "weeks": 2,
-      "minutes_per_day": 60
+      "minutes_per_day": 60,
+      "outcome": "Kundalini practices and mantras that clear old patterns, sharpen your creative vision and give you the energy to turn ideas into form"
     },
     {
       "id": 2907482,
@@ -539,7 +1319,7 @@
       "cover": "https://assets-v2.circle.so/obpw7o3k5qyl8rpto7xumm2oxbdo",
       "weeks": 2,
       "minutes_per_day": 20,
-      "outcome": "[TEST] Let your body lead your creative work through gentle Yin practice."
+      "outcome": "A body that's softer, clearer and ready to create, with short Yin, breath and sound practices to come back to whenever you feel stuck or full."
     },
     {
       "id": 2907481,
@@ -547,7 +1327,8 @@
       "url": "https://community.creativeliving.world/c/expanded-collection-ns-101",
       "cover": "https://assets-v2.circle.so/obpw7o3k5qyl8rpto7xumm2oxbdo",
       "weeks": 2,
-      "minutes_per_day": 15
+      "minutes_per_day": 15,
+      "outcome": "An understanding of how your nervous system shapes your creativity, and simple practices to hold more visibility and expansion without shutting down."
     }
   ],
   "links": {
