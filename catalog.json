@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-11-26T22:01:36.658Z",
-    "build_version": "sync fd6188f",
+    "generated_at": "2026-11-26T22:24:22.127Z",
+    "build_version": "sync 163dad3",
     "community": "community.creativeliving.world",
     "warnings_count": 16
   },
@@ -644,6 +644,17 @@
       "week_start": "2026-12-07",
       "am": 38770073,
       "pm": 38769530
+    }
+  ],
+  "top_picks": [
+    {
+      "id": 38783607
+    },
+    {
+      "id": 38786757
+    },
+    {
+      "id": 38783205
     }
   ],
   "prompts": [
