@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-27T16:40:14.740Z",
+    "generated_at": "2026-11-27T17:33:16.065Z",
     "build_version": "sync e961975",
     "community": "community.creativeliving.world",
-    "warnings_count": 17
+    "warnings_count": 25
   },
   "labels": [
     {
@@ -90,6 +90,11 @@
       "group": "row",
       "id": 612721,
       "name": "With Maia"
+    },
+    {
+      "group": "row",
+      "id": 612722,
+      "name": "With Lo"
     },
     {
       "group": "row",
@@ -1230,6 +1235,79 @@
     }
   ],
   "workshops": [
+    {
+      "id": 2964940,
+      "title": "Your (Creative) Identity & Beliefs",
+      "url": "https://community.creativeliving.world/c/your-creative-identity-beliefs",
+      "rows": [
+        612721,
+        612722
+      ],
+      "outcome": "A new belief about yourself as a creative, and one small way to practise living it this week."
+    },
+    {
+      "id": 2964939,
+      "title": "Writing the Future",
+      "url": "https://community.creativeliving.world/c/writing-the-future",
+      "rows": [
+        612722
+      ],
+      "outcome": "A structured way to see your thinking on the page, separate what's yours from what you've absorbed, and write from your own perspective."
+    },
+    {
+      "id": 2964937,
+      "title": "The Mundane Moment",
+      "url": "https://community.creativeliving.world/c/the-mundane-moment",
+      "rows": [
+        612722
+      ],
+      "outcome": "A boring moment from your week, written like the opening of a novel, and the sensory tools to make any ordinary scene feel like it matters."
+    },
+    {
+      "id": 2964936,
+      "title": "The Absurd Instruction Manual",
+      "url": "https://community.creativeliving.world/c/the-absurd-instruction-manual",
+      "rows": [
+        612722
+      ],
+      "outcome": "A ridiculous, straight-faced writing game that gets you out of your head and back to your weirdest voice."
+    },
+    {
+      "id": 2964935,
+      "title": "Original Thinking Is Not What You Think It Is",
+      "url": "https://community.creativeliving.world/c/original-thinking-is-not-what-you-think-it-is",
+      "rows": [
+        612722
+      ],
+      "outcome": "The difference between having ideas and having your own, and where yours have been hiding."
+    },
+    {
+      "id": 2964934,
+      "title": "One Object Three Sentences",
+      "url": "https://community.creativeliving.world/c/one-object-three-sentences",
+      "rows": [
+        612722
+      ],
+      "outcome": "A quick, playful practice to shake off the dust and find words only you could have written."
+    },
+    {
+      "id": 2964933,
+      "title": "Expression Masterclass: Shitty First Draft",
+      "url": "https://community.creativeliving.world/c/expression-masterclass-shitty-first-draft",
+      "rows": [
+        612722
+      ],
+      "outcome": "A daily writing practice that protects your writing from you, by keeping the writer, the editor and the critic out of the same room."
+    },
+    {
+      "id": 2964932,
+      "title": "Expanded Capacity Masterclass",
+      "url": "https://community.creativeliving.world/c/expanded-capacity-masterclass",
+      "rows": [
+        612721
+      ],
+      "outcome": "You’ll have the tools to become the body that can hold what you're calling in!"
+    },
     {
       "id": 2957266,
       "title": "Parts Work Creative Edition",
