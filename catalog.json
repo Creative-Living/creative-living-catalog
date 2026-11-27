@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-26T23:13:04.090Z",
-    "build_version": "sync f839726",
+    "generated_at": "2026-11-27T16:40:14.740Z",
+    "build_version": "sync e961975",
     "community": "community.creativeliving.world",
-    "warnings_count": 16
+    "warnings_count": 17
   },
   "labels": [
     {
@@ -1374,5 +1374,6 @@
     "celebrations": "https://community.creativeliving.world/c/celebrations",
     "skills_exchange": "https://community.creativeliving.world/c/skills-exchange",
     "group_chat": "https://community.creativeliving.world/c/group-chat-no-rules"
-  }
+  },
+  "covers": {}
 }
